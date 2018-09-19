@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 
 Quiz Games and Media Apps built the Boosted. Music Player Equalizer app as an Ad Supported app.
@@ -13,7 +13,7 @@ If you choose to use our Service, then you agree to the collection
         We will not use or share your information with anyone except as described in this Privacy Policy.
 
 
-##Information Collection and Use
+## Information Collection and Use
 
 For a better experience, while using our Service, we may require you to provide us with certain personally
         identifiable information. The information that we request will be retained
@@ -29,7 +29,7 @@ Firebase Analytics https://firebase.google.com/policies/analytics
 Crashlytics http://try.crashlytics.com/terms/privacy-policy.pdf
 
 
-##Log Data
+## Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the
         app we collect data and information (through third party products)
@@ -39,7 +39,7 @@ We want to inform you that whenever you use our Service, in a case of an error i
         the time and date of your use of the Service, and other statistics.
 
 
-##Cookies
+## Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.
         These are sent to your browser from the websites
@@ -52,7 +52,7 @@ This Service does not use these “cookies” explicitly.
         you may not be able to use some portions of this Service.
 
 
-##Service Providers
+## Service Providers
 
 We may employ third-party companies and individuals due to the following reasons:
 
@@ -63,7 +63,7 @@ To assist us in analyzing how our Service is used.
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 
-##Security
+## Security
 
 We value your trust in providing us your Personal Information,
         thus we are striving to use commercially acceptable means of protecting it.
@@ -71,7 +71,7 @@ We value your trust in providing us your Personal Information,
         and we cannot guarantee its absolute security.
 
 
-##Links to Other Sites
+## Links to Other Sites
 
 This Service may contain links to other sites.
         If you click on a third-party link, you will be directed to that site.
@@ -80,7 +80,7 @@ This Service may contain links to other sites.
         the content, privacy policies, or practices of any third-party sites or services.
 
 
-##Children’s Privacy
+## Children’s Privacy
 
 These Services do not address anyone under the age of 13.
         We do not knowingly collect personally identifiable information from children under 13.
@@ -90,7 +90,7 @@ These Services do not address anyone under the age of 13.
         please contact us so that we will be able to do necessary actions.
 
 
-##Changes to This Privacy Policy
+## Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time.
         Thus, you are advised to review this page periodically for any changes.
@@ -98,6 +98,6 @@ We may update our Privacy Policy from time to time.
         These changes are effective immediately after they are posted on this page.
 
 
-##Contact Us
+## Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
